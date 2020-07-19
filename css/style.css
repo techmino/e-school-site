@@ -1,0 +1,83 @@
+.navbar img {
+	width: 120px;
+}
+
+.banner {
+	background-color: #F0FFF0;
+	height: 70vh;
+	overflow: hidden;
+
+}
+
+.books img {
+	width: 30%;
+	margin: 0 auto;
+}
+
+.book img {
+	width: 26%;
+}
+
+.books .card {
+	border: none;
+	background-color: #F0FFF0;
+	padding: 20px;
+	transition: 0.5s ease;
+
+}
+
+.books .card:hover {
+	box-shadow: 5px 5px 10px gray;
+}
+
+.testimonial img {
+	width: 80px;
+	transition: 0.5s ease;
+}
+
+.testimonial {
+	padding: 30px 0;
+}
+
+
+
+.courses .card {
+	border: none;
+	box-shadow: 5px 5px 10px gray;
+	transition: 1s ease;
+}
+
+.courses .card:hover {
+	box-shadow: 10px 10px 15px gray;
+
+}
+
+.card-footer img {
+	width: 20px;
+
+}
+
+.footer li {
+	list-style-type: none;
+
+}
+
+.footer {
+	background-color: #000000;
+	color: #ffffff;
+	padding: 40px 0;
+	font-size: 14px;
+
+}
+
+.footer .bold {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.copyright {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 12px;
+}
